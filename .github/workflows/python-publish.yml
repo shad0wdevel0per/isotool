@@ -6,11 +6,11 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: Upload Python Package
+name: IsoTool
 
 on:
   release:
-    types: [published]
+    types: 1.0.0v
 
 permissions:
   contents: read
