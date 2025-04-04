@@ -33,5 +33,5 @@
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/IsoTool.git
-cd IsoTool
+git clone https://github.com/shad0wdevel0per/isotool.git
+cd isotool
